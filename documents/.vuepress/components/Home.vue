@@ -1,21 +1,13 @@
 <template>
   <div>
     <div class="titleContainer">
-      <h1>오늘 배운 건
-        <br>오늘 적자
-      </h1>
+      <h1>Ashwin's TIL</h1>
 
       <div class="infoContainer">
-        <div class="name">Jay Jin's TIL</div>
+        <div class="name">Ashwin's TIL</div>
         <ul>
           <li>
-            <a href="https://milooy.wordpress.com/">Blog</a>
-          </li>
-          <li>
-            <a href="https://github.com/milooy">GitHub</a>
-          </li>
-          <li>
-            <a href="https://soundcloud.com/hellojayjin">SoundCloud</a>
+            <a href="https://www.ashwinmenon.com/">Blog</a>
           </li>
         </ul>
       </div>
