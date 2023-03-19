@@ -13,7 +13,7 @@ $ yarn dev
 
 ### Build and deploy
 
-Option 1. GitHub Actions로 자동화
+Option 1. GitHub Actions
 [main.yaml](https://github.com/IngridMorstrad/TIL/blob/master/.github/workflows/main.yml)
 
 Option 2. Manually
