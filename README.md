@@ -1,23 +1,22 @@
 # Today I Learned
 
+Forked from
 http://milooy.github.io/TIL/
 
 ![til](https://user-images.githubusercontent.com/3839771/88662649-37dd7480-d115-11ea-8e26-a56669cbfe83.gif)
 
-@milooy 가 오늘 새로 배운 것을 다음의 규칙으로 commit 합니다. [thoughtbot til 참고](https://github.com/thoughtbot/til)
-
-## 로컬에서 띄우기
+## Launch locally
 ```bash
 $ yarn
 $ yarn dev
 ```
 
-### 빌드 및 배포
+### Build and deploy
 
-Opt1. GitHub Actions로 자동화
-[main.yaml](https://github.com/milooy/TIL/blob/master/.github/workflows/main.yml) 참고
+Option 1. GitHub Actions로 자동화
+[main.yaml](https://github.com/IngridMorstrad/TIL/blob/master/.github/workflows/main.yml)
 
-Opt2. 직접 배포
+Option 2. Manually
 ```bash
 $ yarn build
 $ yarn deploy
